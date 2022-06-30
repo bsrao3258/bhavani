@@ -1,0 +1,2 @@
+Hi,
+this is a new file after code push into git repo
